@@ -44,25 +44,12 @@ Building modern web applications with thoughtful user experiences and reliable b
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## 🚀 Featured Projects
-
-> Replace these examples with your real projects and repository links.
-
-- **[Project Name One](https://github.com/ashnafi1426)**  
-  Describe what the project does, the problem it solves, and the technologies used.
-
-- **[Project Name Two](https://github.com/ashnafi1426)**  
-  Describe another project, its key features, and your contribution.
-
-- **[Project Name Three](https://github.com/ashnafi1426)**  
-  Describe a project you are proud of and add a live demo link if available.
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@ashnafi1426](https://github.com/ashnafi1426)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Portfolio:** Add your portfolio website URL here.
-- **Email:** Add a public contact email here if you want to share one.
+- **GitHub:** [@ashnafi1426](https://github.com/ashnafi1426).
+- **Portfolio:** https://profilepolm.vercel.app/.
+- **Email:** ashenafisileshi7@gmail.com.
 
 ---
 
