@@ -53,6 +53,33 @@ Building modern web applications with thoughtful user experiences and reliable b
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ashnafi1426&show_icons=true&theme=dark&title_color=58D5F7&icon_color=58D5F7&text_color=FFFFFF&bg_color=0D1117"
+    alt="Ashnafi's GitHub Stats"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ashnafi1426&theme=dark&background=0D1117&ring=58D5F7&fire=58D5F7&currStreakLabel=58D5F7"
+    alt="Ashnafi's GitHub Contribution Streak"
+  />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnafi1426&layout=compact&theme=dark&title_color=58D5F7&text_color=FFFFFF&bg_color=0D1117"
+    alt="Ashnafi's Most Used Languages"
+  />
+</p>
+
 <div align="center">
 
 *Thanks for visiting my profile! Feel free to explore my repositories.*
