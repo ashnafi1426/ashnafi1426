@@ -1,17 +1,17 @@
-<div align="center">
+👋 Hi, I'm Ashnafi
 
-# 👋 Hi, I'm Ashnafi
+<h3 align="center">🚀 Full-Stack Developer | SaaS Developer | Problem Solver</h3>
 
-### Full-Stack Developer
+<p align="center">
+  Building modern web applications, scalable backend systems, and beautiful user experiences.
+</p>
 
-Building modern web applications with thoughtful user experiences and reliable backend systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-ashnafi1426-181717?style=for-the-badge&logo=github)](https://github.com/ashnafi1426)
-
-</div>
-
----
-
+<p align="center">
+  <a href="https://github.com/ashnafi1426">
+    <img src="https://img.shields.io/badge/GitHub-ashnafi1426-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ashnafi1426&style=for-the-badge&color=orange" alt="Profile Views" />
+</p>
 ## 👨‍💻 About Me
 
 - 💻 Full-Stack Developer interested in building modern, maintainable web applications.
