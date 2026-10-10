@@ -64,7 +64,7 @@ A web-based SaaS platform designed to manage multiple hotels and restaurant oper
   <img
     src="https://raw.githubusercontent.com/ashnafi1426/Restaurant_system2/main/docs/images/hotel-rooms.png"
     alt="Hotel Management System Rooms Page"
-    width="100%"
+    width="60%"
   />
 </p>
 <p align="center">
