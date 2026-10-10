@@ -53,6 +53,51 @@ Building modern web applications with thoughtful user experiences and reliable b
 
 ---
 
+
+## 🏨 Featured Project
+
+### 🏆 Multi-Tenant Hotel Management System (SaaS)
+**Internship Project | Restaurant & Hotel Room-Service Management**
+
+A web-based SaaS platform designed to manage multiple hotels and restaurant operations in one system, combining room reservations, QR-based food ordering, digital menus, kitchen workflows, and hotel-level administration.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ashnafi1426/Restaurant_system2/main/docs/images/hotel-rooms.png"
+    alt="Hotel Management System Rooms Page"
+    width="100%"
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/ashnafi1426/Restaurant_system2">
+    <img src="https://img.shields.io/badge/Project-Multi--Tenant%20Hotel%20SaaS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Multi-Tenant Hotel SaaS Project" />
+  </a>
+  <img src="https://img.shields.io/badge/Type-Internship%20Project-orange?style=for-the-badge" alt="Internship Project" />
+</p>
+
+### ✨ Key Features
+
+- 🏨 **Multi-Tenant Management** — Hotel-specific settings, branding, and data isolation.
+- 🛏️ **Room Reservations** — Room availability and booking workflows.
+- 🍽️ **Digital Menu & QR Ordering** — Guests can scan QR codes, browse menus, and order food.
+- 👨‍🍳 **Kitchen Management** — Track orders through preparation and service.
+- 💳 **Payment Integration** — Chapa, cash/POS, and room-charge workflows as specified by the project requirements.
+- 👥 **Role-Based Access** — Administrative, kitchen, waiter, cashier, and guest roles.
+- 🌍 **Localization** — English and Amharic support as specified in the project requirements.
+
+### 🛠️ Technology Stack
+
+`Vue 3` · `TypeScript` · `Vite` · `Tailwind CSS` · `PHP` · `Laravel` · `MySQL/PostgreSQL` · `Chapa`
+
+### 🔗 Project Links
+
+- 📂 [View Source Code](https://github.com/ashnafi1426/Restaurant_system2)
+- 📖 [Project Documentation](https://github.com/ashnafi1426/Restaurant_system2)
+
+<p align="center">
+  <a href="https://github.com/ashnafi1426/Restaurant_system2">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Visit%20Repository-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
+  </a>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
