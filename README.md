@@ -1,6 +1,6 @@
 👋 Hi, I'm Ashnafi
 
-<h3 align="center">🚀 Full-Stack Developer | SaaS Developer | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
   Building modern web applications, scalable backend systems, and beautiful user experiences.
