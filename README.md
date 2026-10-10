@@ -80,6 +80,14 @@ Building modern web applications with thoughtful user experiences and reliable b
   />
 </p>
 
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ashnafi1426/output/main/github-contribution-grid-snake.svg)
+
+![Dark Snake](https://raw.githubusercontent.com/ashnafi1426/output/main/github-contribution-grid-snake-dark.svg)
+
+ 
 <div align="center">
 
 *Thanks for visiting my profile! Feel free to explore my repositories.*
